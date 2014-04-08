@@ -342,6 +342,7 @@
 --SLIDE--
 <!-- Topic: Thank You -->
 
+<img style="max-height: 550px;" src="images/OHSU_logo.jpg">
 <h1>Thank You !!!</h1>
 
 <!------------------------------------------------------------>
